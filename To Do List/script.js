@@ -1,6 +1,6 @@
 const inputBox = document.getElementById("inpt-box");
 
-const listContainer = document.getElementById("list-cntr");
+const listContainer = document.getElementById("list-cntnr");
 function addTask(){
     if(inputBox.value ===''){
         alert("you must write something!");
