@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-.container{
+.cntnr{
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(135deg,#153677,#4e085f);
@@ -13,7 +13,7 @@
 
 }
 
-.todo-app{
+.todoapp{
     width: 100%;
     max-width: 540px;
     background: #fff;
@@ -21,14 +21,14 @@
     padding: 40px 30px 70px;
     border-radius: 10px;
 }
-.todo-app h2{
+.todoapp h2{
     color: #002765;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
 
 }
-.todo-app h2 img{
+.todoapp h2 img{
     width: 30px;
     margin-left: 10px;
 }
